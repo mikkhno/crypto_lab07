@@ -1,0 +1,15 @@
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/bin/Debug/net9.0/crypto_lab07
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/bin/Debug/net9.0/crypto_lab07.deps.json
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/bin/Debug/net9.0/crypto_lab07.runtimeconfig.json
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/bin/Debug/net9.0/crypto_lab07.dll
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/bin/Debug/net9.0/crypto_lab07.pdb
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.AssemblyInfoInputs.cache
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.AssemblyInfo.cs
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.csproj.CoreCompileInputs.cache
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.sourcelink.json
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.dll
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/refint/crypto_lab07.dll
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.pdb
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/crypto_lab07.genruntimeconfig.cache
+/Users/mikkhno/RiderProjects/crypto_lab07/crypto_lab07/obj/Debug/net9.0/ref/crypto_lab07.dll
